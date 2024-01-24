@@ -1,5 +1,5 @@
 Auto DV For Qbcore 
-Is my first script i ever made is very shot but seems to run well enjoy! 
+Is my first script i ever made is very short but seems to run well enjoy! 
 blub.
 
 By Kitty Shizz
